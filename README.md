@@ -4,7 +4,7 @@
 
 ---
 
-[![CTFtime](https://img.shields.io/badge/CTFtime-active-blue)]([https://ctftime.org/team/](https://ctftime.org/team/379715))  
+[![CTFtime](https://img.shields.io/badge/CTFtime-active-blue)](https://ctftime.org/team/379715) 
 
 [![Team](https://img.shields.io/badge/Team-0xDEADFA11-red)](#)  
 
