@@ -21,7 +21,7 @@
 
 ---
 
-## 📘 Articles by [Codebreaker](https://medium.com/@akash.gupta.contact)
+## 📘 Articles by [codebreaker](https://medium.com/@akash.gupta.contact)
 
 - [DUCTF 2025 — Skippy: A hop, a skip, and a cleverly placed trap](https://medium.com/@akash.gupta.contact/ductf-2025-skippy-a-hop-a-skip-and-a-cleverly-placed-trap-435f248cdb82)  
 - [DownUnderCTF 2025 — rocky (Reverse Engineering): Knocked Down by a Collision, But Not Out](https://medium.com/@akash.gupta.contact/downunderctf-2025-rocky-reverse-engineering-knocked-down-by-a-collision-but-not-out-75ee4644d17f)  
