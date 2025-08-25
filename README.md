@@ -1,4 +1,4 @@
-# 💀 0xDEADFA11 — CTF Writeups
+# 💀 0xDEADFA11 — DUCTF Writeups
 
 > *We Don’t Defend, We Make ’Em Fall*
 
