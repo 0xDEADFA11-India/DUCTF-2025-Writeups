@@ -15,7 +15,7 @@
 - [Fishy Website — Misc — DUCTF’25 Who Am I?](https://medium.com/@TraceX0/fishy-website-misc-ductf25-83c3864e7902)  
 - [Network Disk Forensics — Forensics — DUCTF’25 Who Am I?](https://medium.com/@TraceX0/network-disk-forensics-forensics-ductf25-d5284ebe5155)  
 - [STONKS — Web Exploitation — DUCTF’25 Who Am I?](https://medium.com/@TraceX0/stonks-web-exploitation-ductf25-c023fa226da2)  
-- [Yippee — OSINT — DUCTF’25 Who Am I?]([ttps://medium.com/@TraceX0/yippee-osint-ductf25-ba2a888edd07)  
+- [Yippee — OSINT — DUCTF’25 Who Am I?](ttps://medium.com/@TraceX0/yippee-osint-ductf25-ba2a888edd07)  
 - [Fat donke diss — OSINT — DUCTF’25 Who Am I?](https://medium.com/@TraceX0/fat-donke-diss-osint-ductf25-f027f35bfcc5)  
 - [Look At All Those Chickens — OSINT — DUCTF’25 Who Am I?](https://medium.com/@TraceX0/osint-flag-hunting-look-at-all-those-chickens-ductf25-85dc7de21e45)  
 
